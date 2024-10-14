@@ -40,23 +40,23 @@ const chalk = require('chalk');
 
 //owmner v card
 global.ytname = "YT: @esteams" //ur yt chanel name
-global.socialm = "GitHub: paskito002" //ur github or insta name
+global.socialm = "GitHub: Jo-byte-hub" //ur github or insta name
 global.location = "Nigeria, Cross River, Calabar" //ur location
 
 //new
-global.botname = '𝐄𝐒 𝐓𝐄𝐀𝐌𝐒-𝐕𝟏' //ur bot name
-global.ownernumber = ['2348187637779'] //ur owner number, dont add more than one
-global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ ᴛᴇᴄʜ 👑' //ur owner name
+global.botname = 'Josh BOT' //ur bot name
+global.ownernumber = ['2349115983460'] //ur owner number, dont add more than one
+global.ownername = 'Joshua 👑' //ur owner name
 global.websitex = "https://youtube.com/@esteams"
-global.wagc = "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"
+global.wagc = "https://whatsapp.com/channel/0029Val2ddrATRSos0x5TX0T"
 global.themeemoji = '⛩'
 global.wm = "Es Teams Inc..."
-global.botscript = 'https://github.com/paskito002/ES_TEAMS-V1' //script link
-global.packname = "ᴇꜱ ᴛᴇᴀᴍꜱ ᴛᴇᴄʜ 👑"
-global.author = "MΛDΣ BY ᴇꜱ ᴛᴇᴀᴍꜱ ᴛᴇᴄʜ 👑"
+global.botscript = 'https://github.com/Jo-byte-hub/Josh BOT creation ' //script link
+global.packname = "Josh 👑"
+global.author = "MΛDΣ BY Joshua 👑"
 global.creator = "2348187637779@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348187637779"] // Premium User
+global.premium = ["2349115983460"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
